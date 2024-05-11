@@ -111,10 +111,13 @@ Por isso o ideal foi separar logicamente o switch e o roteador, pois assim, alé
 ## VOIP
 ![alt text](https://raw.github.com/NathSantos2024/Projeto_Redes/master/VOIP.png)
 
-## Apresentação do Projeto Final
-
+## Baixar a Apresentação Final
 Você pode baixar a apresentação do projeto final clicando [aqui](https://github.com/NathSantos2024/Projeto_Redes/raw/master/Apresenta%C3%A7%C3%A3o%20Projeto_Final.ppsx).
+Abra o arquivo da apresentação em um software compatível com PowerPoint em seu computador.
 
+## Baixar o Arquivo do Projeto
+Para baixar o arquivo do projeto final clique [aqui](https://github.com/NathSantos2024/Projeto_Redes/raw/master/PROJETO_FINAL.pkt).
+Para acessar e visualizar a configuração do projeto baixe e instale o Cisco Packet Tracer.
 
 ## Contribuições
 
