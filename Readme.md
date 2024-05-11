@@ -113,7 +113,7 @@ Por isso o ideal foi separar logicamente o switch e o roteador, pois assim, alé
 
 ## Apresentação do Projeto Final
 
-Você pode baixar a apresentação do projeto final clicando [aqui](https://github.com/NathSantos2024/Projeto_Redes/blob/master/Apresenta%C3%A7%C3%A3o%20Projeto_Final.ppsx).
+Você pode baixar a apresentação do projeto final clicando [aqui](https://github.com/NathSantos2024/Projeto_Redes/raw/master/Apresenta%C3%A7%C3%A3o%20Projeto_Final.ppsx).
 
 
 ## Contribuições
