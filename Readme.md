@@ -25,14 +25,14 @@ Neste repositório, você encontrará:
 
 ---
 
-# Expecificações
+## Expecificações
 
 <b>Cliente</b>: TATRUP, uma empresa especializada na venda de tratores.
 
 <b>Objetivo</b>: Criar num simulador a rede a implementar (Packet Tracer) usando o DHCP, definir DNS, 
 implementar acesso por HTTP e por IOT.
 
-# Cenário hipotético
+## Cenário hipotético
 
 A empresa especializada na venda de tratores publicita os tratores num jornal local e é também referenciada como vendedora autorizada no Web site oficial da TRATS e nos maiores Web sites de venda de tratores. Quando um potencial cliente visita o “showroom” é recebido por um vendedor. O vendedor preenche manualmente um formulário com nome, morada, número de telefone, data da visita e a trator de interesse. O vendedor regista também a forma como o potencial cliente tomou conhecimento da empresa, jornal, Web,...
 
@@ -51,7 +51,7 @@ especifica. E um servidor dedicado para 10 webcams.
 
 ---
 
-# Proposta Inicial: Situação Física
+## Proposta Inicial: Situação Física
 
   - <b>Pavilhão 1</b>: 
 
@@ -76,7 +76,7 @@ especifica. E um servidor dedicado para 10 webcams.
     - 2 tvs
     - 8 câmeras.
     
-# Proposta Inicial: Situação Lógica
+## Proposta Inicial: Situação Lógica
 
 Um meio encontrado para gerir a rede foi utilizar Vlans pois se todos os departamentos ficassem na mesma rede, poderíamos ter alguns problemas:
 - A rede poderia ficar mais lenta com todos os computadores se comunicando pela mesma via, ao mesmo tempo;
@@ -89,20 +89,27 @@ Por isso o ideal foi separar logicamente o switch e o roteador, pois assim, alé
 
 ---
                         
-# Análise: Situação Lógica 
+## Análise: Situação Lógica 
 
-  - Topologia (Packet Tracer)</b>
+  - Topologia completa (Packet Tracer)</b>
 
 ![alt text](https://raw.github.com/NathSantos2024/Projeto_Redes/master/topologiacompleta.png)
 
+   - Topologia pavilhão 1 (Packet Tracer)</b>
+
 ![alt text](https://raw.github.com/NathSantos2024/Projeto_Redes/master/topologiapavilhão1.png)
+
+   - Topologia pavilhão 2 (Packet Tracer)</b>
 
 ![alt text](https://raw.github.com/NathSantos2024/Projeto_Redes/master/topologiapavilhão2.png)   
 
-# Servidores
+## Servidores
 ![alt text](https://raw.github.com/NathSantos2024/Projeto_Redes/master/ServidorHTTP_DNS_DHCP.png)
 
 ![alt text](https://raw.github.com/NathSantos2024/Projeto_Redes/master/ServidorIOT.png)
+
+## VOIP
+![alt text](https://raw.github.com/NathSantos2024/Projeto_Redes/master/VOIP.png)
 
 
 ## Contribuições
